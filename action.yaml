@@ -1,4 +1,4 @@
-name: "Podcast Generator"
+name: "Podcast-Generator-sumithazard"
 author: "Sumithazard"
 description: "Generates a Feed for a podcast from a YAML file"
 runs: 
